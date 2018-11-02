@@ -9,16 +9,23 @@ Things you may want to cover:
 
 * System dependencies
 
-* Configuration
+> this is Ruby on Rails 5 application that allows users to create portfolios
 
-* Database creation
+###Features
 
-* Database initialization
+- Real time chat engine for comments
+- Blog 
+- Portfolio
+- Drag and drop interface
 
-* How to run the test suite
+### Code Example
 
-* Services (job queues, cache servers, search engines, etc.)
+```ruby
+def my_great_method
+	puts "Here it is"
+end
+```
 
-* Deployment instructions
-
-* ...
+```javascript
+	alert("Hi there")
+```
