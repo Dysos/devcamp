@@ -55,3 +55,5 @@ gem "friendly_id", '~> 5.1.0'
 gem 'bootstrap', '~> 4.1.3'
 
 gem 'jquery-rails'
+
+gem 'devport_view_tool2', git: 'https://github.com/Dysos/devport_view_tool2'

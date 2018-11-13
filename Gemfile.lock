@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/Dysos/devport_view_tool2
+  revision: fb55a318194cc8888268a2b4c458c1675f7bc9ff
+  specs:
+    devport_view_tool2 (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -205,6 +211,7 @@ DEPENDENCIES
   capybara (~> 2.13)
   coffee-rails (~> 4.2)
   devise (~> 4.5)
+  devport_view_tool2!
   friendly_id (~> 5.1.0)
   jbuilder (~> 2.5)
   jquery-rails
